@@ -1,6 +1,6 @@
 # NN-Flow
 
-Code used in the paper ("On the neural network flow of spin configurations")[https://arxiv.org/pdf/2203.06652]
+Code used in the paper ["On the neural network flow of spin configurations"](https://arxiv.org/pdf/2203.06652)
 
 ## Paper abstract
 
